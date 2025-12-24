@@ -1,51 +1,28 @@
 # Spring-Powered Space Elevator
 ![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/Space_Elevator.PNG)
+
+**Engineering Design Competition – First Place (8–10 Teams)** <!-- it was 8 or 10 teams, find out and update -->  
+
 ## Project Overview
-A competition project to design, fabricate, and test a robotic climbing mechanism (“space elevator”) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasizes rapid prototyping under tight time and CNC machine constraints, combining mechanical design with hands-on fabrication.
+A competition project to design, fabricate, and test a mechanical robotic climbing system (“space elevator”) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasized rapid prototyping under tight academic schedules, limited CNC machine access, and strict material constraints, requiring efficient mechanical design and decision-making.
 
 ## What I Did
-- Designed and manufactured a compact robotic climbing mechanism with tight tolerance constraints.
-- Applied CAD and CNC machining for fabrication, optimizing material use.
-- Tested performance to achieve the fastest and highest climb among 8–10 competing teams.
-- Documented design iterations, challenges, and improvements for future iterations.
+- Designed a compact robotic climbing mechanism with tight tolerance requirements and limited fabrication attempts.
+- Created CAD models and CNC machining plans, optimizing geometry for strength, weight, and manufacturability.
+- Rapidly prototyped and tested the system, iterating under time and machine-access constraints.
+- Achieved the fastest and highest climb performance among 8–10 competing teams.
+- Documented design iterations, testing results, and lessons learned for future improvements.
 
 ## Why It Matters
-Demonstrates practical application of mechanical engineering principles, rapid prototyping, and efficient design under time and resource constraints. Serves as a foundation for further robotic system development.
+This project demonstrates practical mechanical engineering skills in real-world conditions: designing under time pressure, adapting to manufacturing constraints, and delivering reliable performance with limited iteration opportunities—skills directly transferable to industry engineering environments.
 
 ## Files Included
-- CAD files of climbing mechanism
-- Simulation/kinematic analysis files
+- CAD models of the climbing mechanism
+- Kinematic and mechanical analysis files
 - Testing results and design notes
 
 ## Key Skills
-CAD (SolidWorks), Rapid Prototyping, Mechanical Design, CNC Machining, Team Collaboration
-
------------------use below-----------------
-
-# Spring-Powered Space Elevator
-![Project Image](Projects/Space_Elevator.PNG)  <!-- Replace with actual path or GitHub uploaded image -->
-
-**Engineering Competition – First Place**  
-
-## Project Overview
-A competition project to design, fabricate, and test a robotic climbing mechanism (“space elevator”) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasizes rapid prototyping under tight time and CNC machine constraints, combining mechanical design with hands-on fabrication.
-
-## What I Did
-- Designed and manufactured a compact robotic climbing mechanism with tight tolerance constraints.
-- Applied CAD and CNC machining for fabrication, optimizing material use.
-- Tested performance to achieve the fastest and highest climb among 8–10 competing teams.
-- Documented design iterations, challenges, and improvements for future iterations.
-
-## Why It Matters
-Demonstrates practical application of mechanical engineering principles, rapid prototyping, and efficient design under time and resource constraints. Serves as a foundation for further robotic system development.
-
-## Files Included
-- CAD files of climbing mechanism
-- Simulation/kinematic analysis files
-- Testing results and design notes
-
-## Key Skills
-CAD (SolidWorks), Rapid Prototyping, Mechanical Design, CNC Machining, Team Collaboration
+CAD (SolidWorks), Mechanical Design, Rapid Prototyping, CNC Machining, Team Collaboration
 
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
