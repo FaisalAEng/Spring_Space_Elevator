@@ -1,8 +1,5 @@
-# Spring_Space_Elevator
-Mechanical robotic climbing mechanism powered by a constant force spring – first place in university competition.
-
 # Spring-Powered Space Elevator
-
+[Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/Space_Elevator.PNG)
 ## Project Overview
 A competition project to design, fabricate, and test a robotic climbing mechanism (“space elevator”) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasizes rapid prototyping under tight time and CNC machine constraints, combining mechanical design with hands-on fabrication.
 
@@ -51,6 +48,6 @@ Demonstrates practical application of mechanical engineering principles, rapid p
 CAD (SolidWorks), Rapid Prototyping, Mechanical Design, CNC Machining, Team Collaboration
 
 ## Links
-[Portfolio Page Link](#)  <!-- Replace with actual link later -->
+<a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
 
 
