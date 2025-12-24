@@ -1,4 +1,4 @@
-# Spring-Powered Mechanical Climbing Robot (“Space Elevator”)
+# Spring-Powered Mechanical Space Elevator Prototype
 ![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/Space_Elevator.PNG)
 
 **Engineering Design Competition – First Place (8–10 Teams)** <!-- it was 8 or 10 teams, find out and update -->  
