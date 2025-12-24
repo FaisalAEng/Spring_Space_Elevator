@@ -4,7 +4,8 @@
 **Engineering Design Competition – First Place (8–10 Teams)** <!-- it was 8 or 10 teams, find out and update -->  
 
 ## Project Overview
-“A competition project to design, fabricate, and test a spring-powered mechanical climbing mechanism (‘space elevator’) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasized rapid prototyping under tight academic schedules, limited CNC machine access, and strict material constraints, requiring efficient mechanical design and decision-making.
+This project involved the design, fabrication, and testing of a spring-powered mechanical climbing mechanism (“space elevator”) capable of ascending a 7-foot vertical pole using a constant-force spring as its sole power source. Developed for an engineering competition, the project emphasized rapid prototyping under tight academic timelines, limited CNC machine access, and strict material constraints, requiring efficient mechanical design, iteration, and decision-making.
+
 
 ## What I Did
 - Designed a compact robotic climbing mechanism with tight tolerance requirements and limited fabrication attempts.
