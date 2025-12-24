@@ -14,7 +14,8 @@ This project involved the design, fabrication, and testing of a spring-powered m
 - Achieved the fastest and highest climb performance among 8–10 competing teams.
 - Documented design iterations, testing results, and lessons learned for future improvements.
 
-## Why It Matters
+## Outcome
+<!-- Why It Matters -->
 This project demonstrates elements of robotic system design, including actuation, mechanical integration, and performance testing as well as practical mechanical engineering skills in real-world conditions: designing under time pressure, adapting to manufacturing constraints, and delivering reliable performance with limited iteration opportunities—skills directly transferable to industry engineering environments.
 
 ## Files Included
