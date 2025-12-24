@@ -4,7 +4,7 @@
 **Engineering Design Competition – First Place (8–10 Teams)** <!-- it was 8 or 10 teams, find out and update -->  
 
 ## Project Overview
-A competition project to design, fabricate, and test a mechanical robotic climbing system (“space elevator”) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasized rapid prototyping under tight academic schedules, limited CNC machine access, and strict material constraints, requiring efficient mechanical design and decision-making.
+“A competition project to design, fabricate, and test a spring-powered mechanical climbing mechanism (‘space elevator’) capable of ascending a 7-foot vertical pole using a constant force spring. The project emphasized rapid prototyping under tight academic schedules, limited CNC machine access, and strict material constraints, requiring efficient mechanical design and decision-making.
 
 ## What I Did
 - Designed a compact robotic climbing mechanism with tight tolerance requirements and limited fabrication attempts.
@@ -14,7 +14,7 @@ A competition project to design, fabricate, and test a mechanical robotic climbi
 - Documented design iterations, testing results, and lessons learned for future improvements.
 
 ## Why It Matters
-This project demonstrates practical mechanical engineering skills in real-world conditions: designing under time pressure, adapting to manufacturing constraints, and delivering reliable performance with limited iteration opportunities—skills directly transferable to industry engineering environments.
+This project demonstrates elements of robotic system design, including actuation, mechanical integration, and performance testing as well as practical mechanical engineering skills in real-world conditions: designing under time pressure, adapting to manufacturing constraints, and delivering reliable performance with limited iteration opportunities—skills directly transferable to industry engineering environments.
 
 ## Files Included
 - CAD models of the climbing mechanism
