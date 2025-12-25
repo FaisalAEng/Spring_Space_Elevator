@@ -1,5 +1,5 @@
 # Spring-Powered Mechanical Space Elevator Prototype
-![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/Space_Elevator.PNG)
+![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/spring_space_elevator.PNG)
 
 **Engineering Design Competition – First Place (8–10 Teams)** <!-- it was 8 or 10 teams, find out and update -->  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
