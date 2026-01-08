@@ -1,6 +1,6 @@
 # Spring-Powered Elevator Prototype
 **Pole-Climbing “Space Elevator” Mechanism**
-![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/spring_space_elevator.PNG)
+![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/assets/images/projects/spring_space_elevator.PNG)
 
 **Engineering Design Competition – First Place** <!-- it was 8 or 10 teams -->  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
@@ -39,7 +39,7 @@ CAD (SolidWorks), Mechanical Design, Rapid Prototyping, CNC Machining, Team Coll
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
 Technical Report (PDF)
-- [Detailed Project Page](https://FaisalAEng.github.io/portfolio-website/projects/spring-powered-elevator.html)
+- [Detailed Project Page](https://FaisalAEng.github.io/portfolio-website/projects/spring_powered_elevator.html)
 - [Technical Report (PDF)](link)
 
 
