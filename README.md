@@ -1,6 +1,11 @@
 # Spring-Powered Elevator Prototype
 **Pole-Climbing “Space Elevator” Mechanism**
-![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/assets/images/projects/spring_space_elevator.PNG)
+
+
+
+![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/assets/images/projects/spring_space_elevator.PNG)
+
+
 
 **Engineering Design Competition – First Place** <!-- it was 8 or 10 teams -->  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
