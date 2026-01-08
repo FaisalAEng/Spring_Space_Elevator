@@ -39,5 +39,7 @@ CAD (SolidWorks), Mechanical Design, Rapid Prototyping, CNC Machining, Team Coll
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
 Technical Report (PDF)
+- [Detailed Project Page](https://FaisalAEng.github.io/portfolio-website/projects/spring-powered-elevator.html)
+- [Technical Report (PDF)](link)
 
 
