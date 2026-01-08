@@ -2,7 +2,7 @@
 **Pole-Climbing “Space Elevator” Mechanism**
 ![Space Elevator](https://raw.githubusercontent.com/FaisalAEng/portfolio-website/refs/heads/main/Projects/spring_space_elevator.PNG)
 
-**Engineering Design Competition – First Place** <!-- it was 8 or 10 teams, find out and update -->  
+**Engineering Design Competition – First Place** <!-- it was 8 or 10 teams -->  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
 ## Project Overview
 This project involved the design, fabrication, and testing of a spring-powered mechanical climbing mechanism (“space elevator”) capable of ascending a 7-foot vertical pole using a constant-force spring as its sole power source. 
@@ -38,5 +38,6 @@ CAD (SolidWorks), Mechanical Design, Rapid Prototyping, CNC Machining, Team Coll
 
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
+Technical Report (PDF)
 
 
