@@ -41,6 +41,6 @@ CAD (SolidWorks), Mechanical Design, Rapid Prototyping, CNC Machining, Team Coll
 
 [Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector.html)
 
-[Technical Report (PDF)]([link](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector_rep_draftplaceholder.pdf))
+[Technical Report (PDF)](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector_rep_draftplaceholder.pdf)
 
 
