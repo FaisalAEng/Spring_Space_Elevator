@@ -44,8 +44,7 @@ CAD (SolidWorks), Mechanical Design, Rapid Prototyping, CNC Machining, Team Coll
 ## Links
 <a href="https://faisalaeng.github.io/portfolio-website/" target="_blank">Portfolio Page</a>
 
-[Portfolio Project Page](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector.html)
+[Portfolio Project Page](https://faisalaeng.github.io/portfolio-website/projects/spring_powered_elevator_prototype/spring_powered_elevator.html)
 
-[Technical Report (PDF)](https://FaisalAEng.github.io/portfolio-website/projects/bipvt_solar_collector/bipvt_solar_collector_rep_draftplaceholder.pdf)
-
+[Technical Report (PDF)](https://github.com/FaisalAEng/portfolio-website/blob/main/projects/spring_powered_elevator_prototype/spring_powered_elevator_ar.pdf)
 
