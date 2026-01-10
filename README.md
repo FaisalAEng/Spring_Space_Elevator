@@ -7,6 +7,9 @@
 
 **Engineering Design Competition – First Place** <!-- it was 8 or 10 teams -->  
 <!-- add technical details later (equations, assumptions, calculations) and can edit out for visual appearance-->
+
+---
+
 ## Project Overview
 This project involved the design, fabrication, and testing of a spring-powered mechanical climbing mechanism capable of ascending a 7-foot (84 in) vertical steel pole using a constant-force coil spring as its sole power source.  
 
